@@ -1,5 +1,5 @@
 1. **Clone the Repository**:
-   git clone https://github.com/your-username/personal-financial-records-api.git
+   git clone https://github.com/chepenasaikumari/flow.git
    cd personal-financial-records-api
 
 
